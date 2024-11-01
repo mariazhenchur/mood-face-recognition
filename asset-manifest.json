@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mood-face-recognition/static/css/main.e6c13ad2.css",
+    "main.js": "/mood-face-recognition/static/js/main.87d4553e.js",
+    "index.html": "/mood-face-recognition/index.html",
+    "main.e6c13ad2.css.map": "/mood-face-recognition/static/css/main.e6c13ad2.css.map",
+    "main.87d4553e.js.map": "/mood-face-recognition/static/js/main.87d4553e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87d4553e.js"
+  ]
+}
